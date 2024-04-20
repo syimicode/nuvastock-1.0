@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Nuvastock.Splashscreen" parent="Theme.SplashScreen">
+
+        <!-- Background splash screen -->
+        <item name="windowSplashScreenBackground">#FFFFFF</item>
+
+        <!-- Icon animasi untuk splash screen -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splashscreen</item>
+
+        <!-- Tema setelah splash screen selesai -->
+        <item name="postSplashScreenTheme">@style/Theme.Nuvastock</item>
+
+        <!-- Menampilkan navigasi sistem -->
+        <item name="android:navigationBarColor">#FFFFFF</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <!-- Menampilkan status bar -->
+        <item name="android:statusBarColor">#FFFFFF</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823924678476",
+    "project_id": "nuvastock",
+    "storage_bucket": "nuvastock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823924678476:android:8bb6c4f6c81769640979e9",
+        "android_client_info": {
+          "package_name": "com.syimicode.nuvastock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823924678476-fjhi7fgifev2ki96rpapa5qi4onpc7e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.syimicode.nuvastock",
+            "certificate_hash": "3932eef14500565fa69bf7fe8721f658fd67d4d5"
+          }
+        },
+        {
+          "client_id": "823924678476-hmfopdkjro29cu8dhf4inj985uumd1j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHLKdes-amcpI_9p--h_MPir8L4h9hxyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823924678476-hmfopdkjro29cu8dhf4inj985uumd1j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
